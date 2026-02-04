@@ -1,6 +1,7 @@
 # Glioblastoma (GBM) 2026: The Mechanical-Immunological Axis
 
 [![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.16997.05603-blue)](https://doi.org/10.13140/RG.2.2.15166.55368) 
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the research manuscript for the paper: "Multi-Omic Integration and Therapeutic Frontiers in Glioblastoma Multiforme: A Systematic Review (2020–2026)."
