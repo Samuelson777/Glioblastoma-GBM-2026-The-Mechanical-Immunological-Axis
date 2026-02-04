@@ -22,7 +22,7 @@ The research concludes that the "one-size-fits-all" approach to Glioblastoma is 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Glioblastoma-GBM-2026-The-Mechanical-Immunological-Axis/blob/main/LICENSE) file for details.
 
 ## ✍️ AuthorsLead 
 
